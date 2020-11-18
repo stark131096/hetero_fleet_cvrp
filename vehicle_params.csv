@@ -1,0 +1,4 @@
+﻿vehicle_type,fix_cost,max_load_t,fuel_consumption,ref_cost_door_closed,ref_cost_door_open,carb_emission,vehicle_quantity
+1,100,2.5,0.2,4.5,5,2.75,6
+2,150,3,0.25,5,5.5,2.8,4
+3,200,3.5,0.3,6,6.5,2.9,3
